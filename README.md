@@ -1,7 +1,7 @@
 ### Hi there 👋
 # 💫 About Me:
 Hello! I'm Kazım.I graduated from Hacettepe University Geomatics Engineering and I am currently doing my master's degree in the same field at Yıldız Technical University. 
-I am working as an intern Java Developer at Allianz Türkiye.
+I am working as an Software Engineer at Allianz Türkiye. I develop software with Java and Angular. Additionally, I am also interested in the field of Data science as an amateur.
 
 
 ## 🌐 Socials:
